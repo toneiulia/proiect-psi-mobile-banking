@@ -28,3 +28,4 @@ III. Proiectarea sistemului informatic <br />
 
 *NOTĂ:* <br />
 Versiunea îmbunătățită se regăsește în cadrul capitolului III (**ANALIZA ȘI PROIECTAREA SISTEMULUI INFORMATIC**) din documentația lucrării de licență.<br />
+[TONE_IULIA_PAULA_INFO_RO_CORBEA_FLOREA_ALEXANDRA_MARIA_IOANA.pdf]<br />
